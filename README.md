@@ -1,6 +1,13 @@
-# 👋 Hi, I'm Vikash Kumar Dhawan
+<!-- Typing Animation Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Vikash+Dhawan;Aspiring+Software+Engineer;Front-end+Developer;AI+%7C+ML+Enthusiast" />
+</p>
 
-🎓 B.Tech Student | 💻 Aspiring Software Engineer
+<h1 align="center">🚀 Welcome to My GitHub Profile</h1>
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vkdhawan819&label=Profile%20Views&color=blue&style=flat" />
+</p> -->
 
 ---
 
