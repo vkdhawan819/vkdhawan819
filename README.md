@@ -15,10 +15,10 @@
 
 ## 🛠️ Tech Stack
 
-* 💻 Languages: C / C++ / Java / Python (edit as per your skills)
-* 🌐 Web: HTML, CSS, JavaScript
-* ⚙️ Tools: Git, GitHub, VS Code
-* 🗄️ Databases: MySQL (if applicable)
+* 💻 Languages: C / C++ / Java / Python 
+* 🌐 Web: HTML, CSS, JavaScript, React.Js
+* ⚙️ Tools: Git, GitHub, VS Code, Excel
+* 🗄️ Databases: MySQL 
 
 ---
 
