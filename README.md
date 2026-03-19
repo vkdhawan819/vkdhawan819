@@ -26,7 +26,8 @@
 
 Here are some of my projects:
 
-* 🔹 Project 1 – Short description
+* 🔹 Project 1 – The AI Resume Analyzer is an intelligent system designed to automate the process of reviewing and analyzing resumes using advanced techniques from Natural Language Processing (NLP) and Machine Learning. The primary goal of this project is to help job seekers improve their resumes and assist recruiters in efficiently shortlisting candidates.
+The system accepts resumes in formats such as PDF or DOCX, extracts relevant information (like skills, education, experience), and evaluates the content based on predefined criteria or job descriptions.
 * 🔹 Project 2 – Short description
 * 🔹 Project 3 – Short description
 
